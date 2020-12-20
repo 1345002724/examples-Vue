@@ -197,7 +197,7 @@
 
         <el-row :gutter="20">
           <el-col :span="6"><div class="grid-content bg-purple">
-            <!--电话-->
+            <!--电话号码-->
             <el-form-item label="手机号码" prop="sjhm">
               <el-input v-model="EditForm.sjhm"></el-input>
             </el-form-item>
